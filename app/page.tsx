@@ -213,7 +213,7 @@ export default function HomePage() {
                                                             : "bg-red-900/50 text-red-200 border border-red-700/60"
                                                     }`}
                                                 >
-                                                    {r.status || "unknown"}
+                                                    {r.status || "unknown status"}
                                                 </span>
                                             </td>
                                             <td className="px-3 py-2 align-top text-slate-200 max-w-sm">
